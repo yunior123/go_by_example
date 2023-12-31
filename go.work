@@ -4,6 +4,8 @@ use (
 	./constants
 	./for
 	./hello
+	./if_else
+	./switch
 	./values
 	./variables
 )
