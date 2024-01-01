@@ -4,12 +4,15 @@ use (
 	./arrays
 	./constants
 	./for
+	./functions
 	./hello
 	./if_else
 	./maps
+	./multiple_return_values
 	./range
 	./slices
 	./switch
 	./values
 	./variables
+	./variadic_func
 )
