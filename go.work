@@ -1,10 +1,14 @@
 go 1.21.5
 
 use (
+	./arrays
 	./constants
 	./for
 	./hello
 	./if_else
+	./maps
+	./range
+	./slices
 	./switch
 	./values
 	./variables
