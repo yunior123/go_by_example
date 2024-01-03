@@ -2,6 +2,7 @@ go 1.21.5
 
 use (
 	./arrays
+	./closures
 	./constants
 	./for
 	./functions
@@ -9,8 +10,11 @@ use (
 	./if_else
 	./maps
 	./multiple_return_values
+	./pointers
 	./range
+	./recursion
 	./slices
+	./strings_runes
 	./switch
 	./values
 	./variables
