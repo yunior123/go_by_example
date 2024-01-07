@@ -9,12 +9,14 @@ use (
 	./hello
 	./if_else
 	./maps
+	./methods
 	./multiple_return_values
 	./pointers
 	./range
 	./recursion
 	./slices
 	./strings_runes
+	./structs
 	./switch
 	./values
 	./variables
