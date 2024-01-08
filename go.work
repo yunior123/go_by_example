@@ -17,6 +17,7 @@ use (
 	./recursion
 	./slices
 	./strings_runes
+	./struct_embedding
 	./structs
 	./switch
 	./values
