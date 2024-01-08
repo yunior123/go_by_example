@@ -8,6 +8,7 @@ use (
 	./functions
 	./hello
 	./if_else
+	./interfaces
 	./maps
 	./methods
 	./multiple_return_values
