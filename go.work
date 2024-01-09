@@ -4,8 +4,10 @@ use (
 	./arrays
 	./closures
 	./constants
+	./errors
 	./for
 	./functions
+	./generics
 	./hello
 	./if_else
 	./interfaces
