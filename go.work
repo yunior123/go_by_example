@@ -2,12 +2,14 @@ go 1.21.5
 
 use (
 	./arrays
+	./channels
 	./closures
 	./constants
 	./errors
 	./for
 	./functions
 	./generics
+	./goroutines
 	./hello
 	./if_else
 	./interfaces
