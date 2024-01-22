@@ -22,6 +22,7 @@ use (
 	./pointers
 	./range
 	./recursion
+	./select
 	./slices
 	./strings_runes
 	./struct_embedding
