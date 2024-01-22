@@ -3,6 +3,7 @@ go 1.21.5
 use (
 	./arrays
 	./channel_buffering
+	./channel_directions
 	./channel_sinchronization
 	./channels
 	./closures
