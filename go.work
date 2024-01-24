@@ -28,6 +28,7 @@ use (
 	./struct_embedding
 	./structs
 	./switch
+	./timeouts
 	./values
 	./variables
 	./variadic_func
