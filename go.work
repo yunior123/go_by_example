@@ -19,6 +19,7 @@ use (
 	./maps
 	./methods
 	./multiple_return_values
+	./non_blocking
 	./pointers
 	./range
 	./recursion
