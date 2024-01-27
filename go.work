@@ -6,6 +6,7 @@ use (
 	./channel_directions
 	./channel_sinchronization
 	./channels
+	./closing_channels
 	./closures
 	./constants
 	./errors
