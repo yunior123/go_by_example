@@ -23,6 +23,7 @@ use (
 	./non_blocking
 	./pointers
 	./range
+	./range_over_channels
 	./recursion
 	./select
 	./slices
