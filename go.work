@@ -32,6 +32,7 @@ use (
 	./structs
 	./switch
 	./timeouts
+	./timers
 	./values
 	./variables
 	./variadic_func
